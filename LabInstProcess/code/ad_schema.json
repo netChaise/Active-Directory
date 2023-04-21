@@ -1,0 +1,27 @@
+{
+    "domain": "grimlabs.org",
+
+    "groups": [
+        {
+            "name": "TG1"
+        }
+    ],
+
+    "users": [
+
+        {   
+            "name": "Cha Da",
+            "password": "passwordliterally",
+            "groups": [
+                "TG1"
+            ]
+        },
+        {   
+            "name": "Tah Da",
+            "password": "passwordliterally",
+            "groups": [
+                "TG1"
+            ]
+        }
+    ]
+}
